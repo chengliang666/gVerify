@@ -1,2 +1,2 @@
 # gVerify
-通过javascript简单的图形验证工具
+Simple graphic validation tools by javascript
